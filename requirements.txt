@@ -1,5 +1,5 @@
 tensorflow
-pandas
+pandas 
 notebook
 numpy
 matplotlib
@@ -11,4 +11,6 @@ ensure==1.0.2
 joblib
 types-PyYAML
 scipy
--e .    # install setup.py
+Flask
+Flask-Cors
+-e .
