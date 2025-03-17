@@ -3,7 +3,6 @@ import time
 import os
 from cnnClassifier.entity import PrepareCallbacksConfig
 
-
 class PrepareCallback:
     def __init__(self, config: PrepareCallbacksConfig):
         self.config = config
